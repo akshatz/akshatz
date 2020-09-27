@@ -5,3 +5,6 @@
     * [Dog Breed Identification](https://github.com/akshatz/dogVision/blob/master/dog_vision.ipynb) using Google Colab
 * Find [me@LinkedIn](https://www.linkedin.com/in/akshatz/)
 * I was an intern with M/S Cuelogic Technologies for about 6 months
+
+
+<img align="left" alt="Akshat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akshatz&show_icons=true&hide_border=true&hide=issues" />
