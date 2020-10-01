@@ -1,7 +1,7 @@
 ### Akshat Zala here
 <img align="right" style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border bg-white" src="https://avatars3.githubusercontent.com/u/30282789?s=460&amp;u=1037e3bf1c544cd810e649c686e70d6f5f837e24&amp;v=4">
 
-* I am learning: [Automation for Deployment](https://www.edx.org/course/introduction-to-kubernetes)
+* I am learning: [React Developer](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 * I have used Scikit-Learn, pandas, matplotlib, NumPy in following projects:
     * [HeartDiease Prediction](https://github.com/akshatz/heartDiseaseProject) using Jupyter notebook  
     * [Dog Breed Identification](https://github.com/akshatz/dogVision/blob/master/dog_vision.ipynb) using Google Colab
