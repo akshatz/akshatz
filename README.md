@@ -1,4 +1,4 @@
-### Akshat Zala here
+### Akshat Zala
 <img align="right" style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border bg-white" src="https://avatars3.githubusercontent.com/u/30282789?s=460&amp;u=1037e3bf1c544cd810e649c686e70d6f5f837e24&amp;v=4">
 
 * I am learning: [React](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) for frontend development
