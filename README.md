@@ -11,5 +11,5 @@
 * Find [me@LinkedIn](https://www.linkedin.com/in/akshatz/)
 
 * I was an intern with M/S Cuelogic Technologies for about 6 months
-* I am an intern with M/S Roambee India Pvt Ltd. Working as backend support engineer.
+* I am an intern with M/S Roambee India Pvt Ltd. Working as backend engineer.
 <img src="https://github-readme-stats.codestackr.vercel.app/api?username=akshatz&show_icons=true&hide_border=true&hide=issues" />
