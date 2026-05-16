@@ -22,7 +22,7 @@ Backend engineer with an interest in data science, machine learning, and practic
 
 ## Experience
 
-- Backend engineering experience with Roambee India Pvt. Ltd.
+- Backend engineering experience with Decklar India Pvt. Ltd.
 - Internship experience with Cuelogic Technologies.
 
 ## Connect
