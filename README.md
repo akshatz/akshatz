@@ -40,7 +40,7 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 
 * Vue.js
 * Bootstrap
-
+* React
 ---
 
 ## 🔨 Featured Projects
@@ -97,6 +97,6 @@ Working on backend systems, APIs, AI integrations, and scalable application deve
 
 ---
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatz\&show_icons=true\&hide_border=true\&hide=issues)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatz&show_icons=true&hide_border=true&hide=issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatz\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatz&layout=compact&hide_border=true)
