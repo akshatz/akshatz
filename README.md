@@ -4,9 +4,9 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Backend & APIs
+## Backend & APIs
 
 * Node.js
 * TypeScript
@@ -15,7 +15,7 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 * Flask
 * PostgreSQL
 
-### AI / LLM / Data
+## AI / LLM / Data
 
 * OpenAI APIs
 * Ollama
@@ -27,42 +27,41 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 * OpenCV
 * NLP
 
-### DevOps & Infrastructure
+## DevOps & Infrastructure
 
 * Docker
 * Docker Compose
 * Linux
 * GitHub Actions
 
-### Frontend
+## Frontend
 
 * Vue.js
 * Bootstrap
 
 ---
 
-## 🔨 Featured Projects
+# 🔨 Featured Projects
 
-### AI-Powered PR Review Bot
+## AI-Powered PR Review Bot
 
 Automated GitHub pull request review system using local LLMs and AI-assisted code analysis.
 
-### Local LLM RAG Assistant
+## Local LLM RAG Assistant
 
 Retrieval-based AI assistant using vector databases, embeddings, and local LLM inference.
 
-### ChromaDB Migration Tool
+## ChromaDB Migration Tool
 
 Utility for migrating and managing persistent ChromaDB collections across environments.
 
-### Heart Disease Prediction
+## [Heart Disease Prediction](https://github.com/akshatz/heartDiseaseProject)
 
 Machine learning project developed using Python and Jupyter Notebook.
-🔗 https://github.com/akshatz/heartDiseaseProject
 
 ---
 
-## 📚 Certifications & Learning
+# 📚 Certifications & Learning
 
 * Deep Learning Specialization — Coursera
 * Continuous learning in:
@@ -74,21 +73,21 @@ Machine learning project developed using Python and Jupyter Notebook.
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### Backend Engineer
+## Backend Engineer
 
-[Decklar India Pvt. Ltd.](https://decklar.com?utm_source=chatgpt.com)
+[Decklar India Pvt. Ltd.](https://decklar.com)
 
 Working on backend systems, APIs, AI integrations, and scalable application development.
 
-### Software Engineering Intern
+## Software Engineering Intern
 
-[Cuelogic Technologies now LTIM](https://www.ltm.com)
+[Cuelogic Technologies](https://www.cuelogic.com) (now part of [LTIMindtree](https://www.ltimindtree.com))
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 * LinkedIn: https://www.linkedin.com/in/akshatz/
 * GitHub: https://github.com/akshatz
