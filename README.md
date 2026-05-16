@@ -1,32 +1,100 @@
 # Hi, I'm Akshat Zala 👋
 
-Backend engineer with an interest in data science, machine learning, and practical web applications. I enjoy building APIs, experimenting with Python ML tooling, and turning ideas into reliable software.
+Backend Engineer with 5 years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Interested in LLM systems, retrieval architectures, backend infrastructure, and practical machine learning applications.
 
-## What I work with
+---
 
-- **Backend:** Python, Django REST Framework, Flask
-- **Data & ML:** scikit-learn, pandas, NumPy, matplotlib, Jupyter Notebook, Google Colab
-- **Frontend:** Vue.js, Bootstrap
-- **Other interests:** OpenCV, NLP, Stanford NER
+## 🚀 Tech Stack
 
-## Featured projects
+### Backend & APIs
 
-- [Heart Disease Prediction](https://github.com/akshatz/heartDiseaseProject) — machine learning project built with Jupyter Notebook.
-- [Dog Breed Identification](https://github.com/akshatz/dogVision/blob/master/dog_vision.ipynb) — deep learning notebook developed in Google Colab.
-- [Social Networking Site](https://vast-springs-06779.herokuapp.com/) — Django and Bootstrap web application.
+* Node.js
+* TypeScript
+* Python
+* Django REST Framework
+* Flask
+* PostgreSQL
 
-## Learning & certifications
+### AI / LLM / Data
 
-- Completed the [Deep Learning Specialization](https://coursera.org/share/b07ef6c1479ef7f01b4371d60a66c2ee) on Coursera.
-- Continued learning in data science, backend engineering, and applied machine learning.
+* OpenAI APIs
+* Ollama
+* ChromaDB
+* RAG Applications
+* scikit-learn
+* pandas
+* NumPy
+* OpenCV
+* NLP
 
-## Experience
+### DevOps & Infrastructure
 
-- Backend engineering experience with Decklar India Pvt. Ltd.
-- Internship experience with Cuelogic Technologies.
+* Docker
+* Docker Compose
+* Linux
+* GitHub Actions
 
-## Connect
+### Frontend
 
-- [LinkedIn](https://www.linkedin.com/in/akshatz/)
+* Vue.js
+* Bootstrap
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatz&show_icons=true&hide_border=true&hide=issues)
+---
+
+## 🔨 Featured Projects
+
+### AI-Powered PR Review Bot
+
+Automated GitHub pull request review system using local LLMs and AI-assisted code analysis.
+
+### Local LLM RAG Assistant
+
+Retrieval-based AI assistant using vector databases, embeddings, and local LLM inference.
+
+### ChromaDB Migration Tool
+
+Utility for migrating and managing persistent ChromaDB collections across environments.
+
+### Heart Disease Prediction
+
+Machine learning project developed using Python and Jupyter Notebook.
+🔗 https://github.com/akshatz/heartDiseaseProject
+
+---
+
+## 📚 Certifications & Learning
+
+* Deep Learning Specialization — Coursera
+* Continuous learning in:
+
+  * AI Engineering
+  * Backend Architecture
+  * Retrieval Systems
+  * Local LLM Infrastructure
+
+---
+
+## 💼 Experience
+
+### Backend Engineer
+
+[Decklar India Pvt. Ltd.](https://decklar.com?utm_source=chatgpt.com)
+
+Working on backend systems, APIs, AI integrations, and scalable application development.
+
+### Software Engineering Intern
+
+[Cuelogic Technologies now LTIM](https://ltmindtree.com)
+
+---
+
+## 📫 Connect
+
+* LinkedIn: https://www.linkedin.com/in/akshatz/
+* GitHub: https://github.com/akshatz
+
+---
+
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatz\&show_icons=true\&hide_border=true\&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatz\&layout=compact\&hide_border=true)
