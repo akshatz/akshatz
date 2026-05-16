@@ -1,67 +1,70 @@
 # Hi, I'm Akshat Zala 👋
 
-Backend Engineer with 5 years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Interested in LLM systems, retrieval architectures, backend infrastructure, and practical machine learning applications.
-
+Backend Engineer with 5 years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Focused on LLM systems, retrieval architectures, backend infrastructure, and practical machine learning applications.
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## Backend & APIs
+### Backend & APIs
 
 * Node.js
 * TypeScript
 * Python
 * Django REST Framework
 * Flask
+* FastAPI
 * PostgreSQL
 
-## AI / LLM / Data
+### AI / LLM / Data
 
 * OpenAI APIs
 * Ollama
 * ChromaDB
-* RAG Applications
+* Milvus
+* Agentic RAG Applications
+* Vector Databases
 * scikit-learn
 * pandas
 * NumPy
 * OpenCV
 * NLP
 
-## DevOps & Infrastructure
+### DevOps & Infrastructure
 
 * Docker
 * Docker Compose
 * Linux
 * GitHub Actions
 
-## Frontend
+### Frontend
 
 * Vue.js
 * Bootstrap
 
 ---
 
-# 🔨 Featured Projects
+## 🔨 Featured Projects
 
-## AI-Powered PR Review Bot
+### Local LLM RAG Assistant
 
-Automated GitHub pull request review system using local LLMs and AI-assisted code analysis.
+Retrieval-based AI assistant using vector databases, embeddings, and local LLM inference. 
 
-## Local LLM RAG Assistant
-
-Retrieval-based AI assistant using vector databases, embeddings, and local LLM inference.
-
-## ChromaDB Migration Tool
+### ChromaDB Migration Tool
 
 Utility for migrating and managing persistent ChromaDB collections across environments.
 
-## [Heart Disease Prediction](https://github.com/akshatz/heartDiseaseProject)
+### AI-Powered PR Review Bot
+
+Automated GitHub pull request review system using local LLMs and AI-assisted code analysis.
+
+
+### [Heart Disease Prediction](https://github.com/akshatz/heartDiseaseProject)
 
 Machine learning project developed using Python and Jupyter Notebook.
 
 ---
 
-# 📚 Certifications & Learning
+## 📚 Certifications & Learning
 
 * Deep Learning Specialization — Coursera
 * Continuous learning in:
@@ -73,21 +76,21 @@ Machine learning project developed using Python and Jupyter Notebook.
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Backend Engineer
+### Backend Engineer
 
 [Decklar India Pvt. Ltd.](https://decklar.com)
 
-Working on backend systems, APIs, AI integrations, and scalable application development.
+Working on backend systems, APIs, AI integrations, and scalable application development. 
 
-## Software Engineering Intern
+### Software Engineering Intern
 
 [Cuelogic Technologies](https://www.cuelogic.com) (now part of [LTIMindtree](https://www.ltimindtree.com))
 
 ---
 
-# 📫 Connect
+## 📫 Connect
 
 * LinkedIn: https://www.linkedin.com/in/akshatz/
 * GitHub: https://github.com/akshatz
