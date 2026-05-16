@@ -84,7 +84,7 @@ Working on backend systems, APIs, AI integrations, and scalable application deve
 
 ### Software Engineering Intern
 
-[Cuelogic Technologies now LTIM](https://ltmindtree.com)
+[Cuelogic Technologies now LTIM](https://www.ltm.com)
 
 ---
 
