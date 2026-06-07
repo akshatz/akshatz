@@ -97,6 +97,7 @@ Working on backend systems, APIs, AI integrations, and scalable application deve
 
 ---
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatz&show_icons=true&hide_border=true&hide=issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatz&layout=compact&hide_border=true)
+![Akshat's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatz&theme=github) 
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshatz&theme=github) 
