@@ -42,10 +42,23 @@ Backend Engineer with 5+ years of experience building scalable APIs, AI-powered 
 * React
 * Vue.js
 * Bootstrap
-
+* React
 ---
 
 ## 🔨 Featured Projects
+
+### Local LLM RAG Assistant
+
+Retrieval-based AI assistant using vector databases, embeddings, and local LLM inference. 
+
+### ChromaDB Migration Tool
+
+Utility for migrating and managing persistent ChromaDB collections across environments.
+
+### AI-Powered PR Review Bot
+
+Automated GitHub pull request review system using local LLMs and AI-assisted code analysis.
+
 
 ### [Heart Disease Prediction](https://github.com/akshatz/heartDiseaseProject)
 
@@ -71,7 +84,7 @@ Machine learning project developed using Python and Jupyter Notebook.
 
 [Decklar India Pvt. Ltd.](https://decklar.com)
 
-Working on backend systems, APIs, AI integrations, and scalable application development.
+Working on backend systems, APIs, AI integrations, and scalable application development. 
 
 ### Software Engineering Intern
 
@@ -89,3 +102,7 @@ Working on backend systems, APIs, AI integrations, and scalable application deve
 ![Akshat's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatz\&theme=github)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshatz\&theme=github)
+
+![Akshat's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatz&theme=github) 
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshatz&theme=github) 
