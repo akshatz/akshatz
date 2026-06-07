@@ -1,6 +1,7 @@
 # Hi, I'm Akshat Zala 👋
 
-Backend Engineer with 5 years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Focused on LLM systems, retrieval architectures, backend infrastructure, and practical machine learning applications.
+Backend Engineer with 5+ years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Focused on LLM systems, Retrieval-Augmented Generation (RAG), backend infrastructure, and practical machine learning applications.
+
 ---
 
 ## 🚀 Tech Stack
@@ -17,17 +18,17 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 
 ### AI / LLM / Data
 
-* OpenAI APIs
 * Ollama
+* OpenAI APIs
 * ChromaDB
 * Milvus
-* Agentic RAG Applications
 * Vector Databases
+* Agentic RAG Applications
+* NLP
 * scikit-learn
 * pandas
 * NumPy
 * OpenCV
-* NLP
 
 ### DevOps & Infrastructure
 
@@ -38,31 +39,13 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 
 ### Frontend
 
+* React
 * Vue.js
 * Bootstrap
-* React
 
-### DevOps & Infrastructure
-
-* Docker
-* Linux
-* GitHub Actions
 ---
 
 ## 🔨 Featured Projects
-
-### Local LLM RAG Assistant
-
-Retrieval-based AI assistant using vector databases, embeddings, and local LLM inference. 
-
-### ChromaDB Migration Tool
-
-Utility for migrating and managing persistent ChromaDB collections across environments.
-
-### AI-Powered PR Review Bot
-
-Automated GitHub pull request review system using local LLMs and AI-assisted code analysis.
-
 
 ### [Heart Disease Prediction](https://github.com/akshatz/heartDiseaseProject)
 
@@ -88,7 +71,7 @@ Machine learning project developed using Python and Jupyter Notebook.
 
 [Decklar India Pvt. Ltd.](https://decklar.com)
 
-Working on backend systems, APIs, AI integrations, and scalable application development. 
+Working on backend systems, APIs, AI integrations, and scalable application development.
 
 ### Software Engineering Intern
 
@@ -103,7 +86,6 @@ Working on backend systems, APIs, AI integrations, and scalable application deve
 
 ---
 
+![Akshat's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatz\&theme=github)
 
-![Akshat's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatz&theme=github) 
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshatz&theme=github) 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshatz\&theme=github)
