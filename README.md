@@ -1,6 +1,7 @@
 # Hi, I'm Akshat Zala 👋
 
-Backend Engineer with 5 years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Focused on LLM systems, retrieval architectures, backend infrastructure, and practical machine learning applications.
+Backend Engineer with 5+ years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Focused on LLM systems, Retrieval-Augmented Generation (RAG), backend infrastructure, and practical machine learning applications.
+
 ---
 
 ## 🚀 Tech Stack
@@ -17,17 +18,17 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 
 ### AI / LLM / Data
 
-* OpenAI APIs
 * Ollama
+* OpenAI APIs
 * ChromaDB
 * Milvus
-* Agentic RAG Applications
 * Vector Databases
+* Agentic RAG Applications
+* NLP
 * scikit-learn
 * pandas
 * NumPy
 * OpenCV
-* NLP
 
 ### DevOps & Infrastructure
 
@@ -38,6 +39,7 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 
 ### Frontend
 
+* React
 * Vue.js
 * Bootstrap
 * React
@@ -92,11 +94,14 @@ Working on backend systems, APIs, AI integrations, and scalable application deve
 
 ## 📫 Connect
 
-* LinkedIn: https://www.linkedin.com/in/akshatz/
+* LinkedIn: https://www.linkedin.com/in/akshatzala/
 * GitHub: https://github.com/akshatz
 
 ---
 
+![Akshat's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatz\&theme=github)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshatz\&theme=github)
 
 ![Akshat's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshatz&theme=github) 
 
