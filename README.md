@@ -41,6 +41,12 @@ Backend Engineer with 5 years of experience building scalable APIs, AI-powered a
 * Vue.js
 * Bootstrap
 * React
+
+### DevOps & Infrastructure
+
+* Docker
+* Linux
+* GitHub Actions
 ---
 
 ## 🔨 Featured Projects
