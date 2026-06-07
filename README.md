@@ -92,7 +92,7 @@ Working on backend systems, APIs, AI integrations, and scalable application deve
 
 ## 📫 Connect
 
-* LinkedIn: https://www.linkedin.com/in/akshatz/
+* LinkedIn: https://www.linkedin.com/in/akshatzala/
 * GitHub: https://github.com/akshatz
 
 ---
