@@ -1,6 +1,6 @@
 # Hi, I'm Akshat Zala 👋
 
-Backend Engineer with 5+ years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Focused on LLM systems, Retrieval-Augmented Generation (RAG), backend infrastructure, and practical machine learning applications.
+Backend Engineer with 6+ years of experience building scalable APIs, AI-powered automation tools, and containerized applications. Focused on LLM systems, Retrieval-Augmented Generation (RAG), backend infrastructure, and practical machine learning applications.
 
 ---
 
