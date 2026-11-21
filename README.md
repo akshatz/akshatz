@@ -65,7 +65,7 @@ Automated GitHub pull request review system using local LLMs and AI-assisted cod
 * **Analytics & Data Pipelines:** Deployed an Apache Beam–Snowflake pipeline for scheduled executive metrics and built Flask/PostgreSQL REST APIs powering Decklar's Reveal analytics platform.
 
 ### Software Engineering Intern
-**[Cuelogic Technologies](https://cuelogic.com)** *(now part of [LTIMindtree](https://ltimindtree.com))* — Pune, India | *6 Months (On-Site)*
+**[Cuelogic Technologies](https://cuelogic.com)** *(now part of [LTIMindtree](https://ltimindtree.com))* — Pune, India | *7 Months (On-Site)*
 
 * Completed 6-month on-site full-stack and backend engineering training, building web modules, RESTful APIs, and database integrations.
 
