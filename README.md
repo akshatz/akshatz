@@ -21,7 +21,7 @@ Full-Stack AI & Backend Engineer with 6+ years of experience building scalable A
 * Ollama, NLP, scikit-learn, pandas, NumPy
 
 ### Frontend & SDKs
-* React & Vue.js
+* React & Vite
 * Embeddable Chatbot SDKs & Cross-Origin (CORS) Security
 * Bootstrap
 
@@ -48,7 +48,7 @@ Retrieval-based AI assistant using Milvus, Ollama, Open WebUI, and local embeddi
 
 ## 💼 Experience
 
-### Full-Stack AI & Backend Engineer (Associate Software Engineer – Full Stack AI)
+### Full-Stack AI & Backend Engineer (Associate Software Engineer – FullStack AI)
 **[Decklar](https://decklar.com)** *(formerly Roambee)* — Remote (Vadodara, India) | *6+ Years Tenure*
 
 * **Automated Ingestion & Full-Stack AI Evolution (Buzz):** Developed a background `cron_service` for Confluence PDF ingestion, version control, similarity scoring, and vector indexing, alongside full-stack RAG features.
