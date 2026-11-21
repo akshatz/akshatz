@@ -56,21 +56,18 @@ Automated GitHub pull request review system using local LLMs and AI-assisted cod
 ## 💼 Experience
 
 ### Full-Stack AI & Backend Engineer (Associate Software Engineer – Full Stack AI)
-**[Decklar](https://www.decklar.com)** *(formerly Roambee)* — Remote (Vadodara, India) | *6 Years Tenure*
+**[Decklar](https://decklar.com)** *(formerly Roambee)* — Remote (Vadodara, India) | *6+ Years Tenure*
 
-* **0-to-1 AI Platform Architecture (Buzz):** Architected and built Decklar’s company-wide conversational AI assistant from scratch, owning end-to-end system design across three core services: automated ingestion (`cron_service`), RAG orchestration (`backend`), and an embeddable web client (`frontend`).
-* **Multi-Model LLM & Observability (OpenAI GPT-6, OpenRouter & Langfuse):** Integrated OpenAI’s GPT-6 models into Buzz’s production RAG pipeline with Langfuse tracing for end-to-end latency, token cost, and retrieval quality observability, while architecting a model-agnostic layer for OpenRouter routing.
-* **Vector Database Migration (ChromaDB → Milvus):** Led the migration of Buzz’s retrieval layer from ChromaDB to Decklar’s shared production Milvus cluster, designing custom collection schemas, tenant metadata filtering, and automated re-indexing pipelines in `cron_service`.
-* **Cross-App Integration SDK & RADAR Rollout:** Designed and built a reusable Chatbot SDK with hardened cross-origin (CORS) and session security, integrating Buzz directly into flagship Decklar applications including RADAR with standardized auth and active screen context passing.
-* **Brand & UI Design System Migration (Roambee → Decklar):** Led the end-to-end visual theme and color system migration across Buzz (including the embeddable SDK) and the executive newsletter UI during the Roambee-to-Decklar rebrand.
-* **Automated Executive Newsletter & Analytics Pipeline (Apache Beam & Snowflake):** Deployed a production Apache Beam–Snowflake pipeline to ingest operational metrics, computing statistical aggregations across three scheduled intervals and serving KPIs via REST APIs on a custom-built 1-page UI.
-* **Operational Analytics APIs (Python, Flask & PostgreSQL):** Built high-performance Flask REST APIs querying PostgreSQL to aggregate and serve supply chain metrics powering interactive pie and bar charts for Decklar’s Reveal analytics platform.
-* **AI-Assisted Cross-App Quality & Defect Prevention:** Leveraged Buzz (GPT-6) to proactively audit sibling applications for latent edge-case defects and API mismatches, shipping preventative bug fixes and regression tests prior to customer impact.
+* **Automated Ingestion & Full-Stack AI Evolution (Buzz):** Developed a background `cron_service` for Confluence PDF ingestion, version control, similarity scoring, and vector indexing, alongside full-stack RAG features.
+* **Vector Database Migration & Multi-Model LLM:** Migrated Buzz's retrieval layer from ChromaDB to a production Milvus cluster and integrated OpenAI GPT-6 and OpenRouter routing with Langfuse tracing.
+* **Universal Chatbot SDK & RADAR Rollout:** Built a reusable, cross-origin-secured Chatbot SDK with active screen context passing for flagship apps like RADAR.
+* **UI Rebrand & AI-Assisted QA:** Executed the Roambee-to-Decklar visual rebrand and utilized Buzz (GPT-6) to audit applications for latent edge-case defects.
+* **Analytics & Data Pipelines:** Deployed an Apache Beam–Snowflake pipeline for scheduled executive metrics and built Flask/PostgreSQL REST APIs powering Decklar's Reveal analytics platform.
 
 ### Software Engineering Intern
-**[Cuelogic Technologies](https://www.cuelogic.com)** *(now part of [LTIMindtree](https://www.ltimindtree.com))* — Pune, India | *6 Months (On-Site)*
+**[Cuelogic Technologies](https://cuelogic.com)** *(now part of [LTIMindtree](https://ltimindtree.com))* — Pune, India | *6 Months (On-Site)*
 
-* Completed intensive 6-month on-site full-stack and backend engineering training in Pune, building production-style web modules, RESTful APIs, and relational database integrations.
+* Completed 6-month on-site full-stack and backend engineering training, building web modules, RESTful APIs, and database integrations.
 
 ---
 
