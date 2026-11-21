@@ -36,12 +36,6 @@ Full-Stack AI & Backend Engineer with 6+ years of experience building scalable A
 ### Local LLM RAG Assistant
 Retrieval-based AI assistant using Milvus, Ollama, Open WebUI, and local embeddings for engineering documentation.
 
-### ChromaDB Migration Tool
-Utility for migrating and managing persistent vector database collections across environments.
-
-### AI-Powered PR Review Bot
-Automated GitHub pull request review system using local LLMs and AI-assisted code analysis.
-
 ---
 
 ## 📚 Certifications & Learning
