@@ -46,10 +46,10 @@ Automated GitHub pull request review system using local LLMs and AI-assisted cod
 ---
 
 ## 📚 Certifications & Learning
-* **[Build RAG Applications: Get Started — IBM (2025)](https://coursera.org)** *(Credential ID: `ZVPFIYMPRUON`)*
-* **[Develop Generative AI Applications: Get Started — IBM (2025)](https://coursera.org)** *(Credential ID: `4R5849YI2B5O`)*
-* **[IBM Data Science Professional Certificate — IBM (2024)](https://coursera.org)** *(Credential ID: `NYLJXH7PF3OA`)*
-* **[Deep Learning Specialization — Coursera (2023)](https://coursera.org)** *(Credential ID: `WJPGUMNMMD52`)* 
+* **[Build RAG Applications: Get Started — IBM (Jun 2025)](https://www.coursera.org/account/accomplishments/certificate/ZVPFIYMPRUON)**
+* **[Develop Generative AI Applications: Get Started — IBM (May 2025)](https://www.coursera.org/account/accomplishments/certificate/4R5849YI2B5O)**
+* **[IBM Data Science — IBM (Dec 2024)](https://www.coursera.org/account/accomplishments/specialization/NYLJXH7PF3OA)**
+* **[Deep Learning Specialization — Coursera (Jan 2023)](https://www.coursera.org/account/accomplishments/specialization/WJPGUMNMMD52)**
 
 ---
 
