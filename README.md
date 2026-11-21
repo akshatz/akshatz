@@ -28,7 +28,6 @@ Full-Stack AI & Backend Engineer with 6+ years of experience building scalable A
 ### DevOps & Infrastructure
 * Docker & Docker Compose
 * Linux & Cron / Background Workers
-* GitHub Actions
 
 ---
 
