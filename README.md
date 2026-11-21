@@ -61,7 +61,7 @@ Automated GitHub pull request review system using local LLMs and AI-assisted cod
 * **Automated Ingestion & Full-Stack AI Evolution (Buzz):** Developed a background `cron_service` for Confluence PDF ingestion, version control, similarity scoring, and vector indexing, alongside full-stack RAG features.
 * **Vector Database Migration & Multi-Model LLM:** Migrated Buzz's retrieval layer from ChromaDB to a production Milvus cluster and integrated OpenAI GPT-6 and OpenRouter routing with Langfuse tracing.
 * **Universal Chatbot SDK & RADAR Rollout:** Built a reusable, cross-origin-secured Chatbot SDK with active screen context passing for flagship apps like RADAR.
-* **UI Rebrand & AI-Assisted QA:** Executed the Roambee-to-Decklar visual rebrand and utilized Buzz (GPT-6) to audit applications for latent edge-case defects.
+* **UI Rebrand:** Executed the Roambee-to-Decklar visual rebrand.
 * **Analytics & Data Pipelines:** Deployed an Apache Beam–Snowflake pipeline for scheduled executive metrics and built Flask/PostgreSQL REST APIs powering Decklar's Reveal analytics platform.
 
 ### Software Engineering Intern
